@@ -1,0 +1,9 @@
+
+#!/bin/bash
+var=abc
+var1=123
+var2="pradi hello"
+echo "my name: $var"
+echo "my no: $var1"
+echo "my names: $var2"
+
